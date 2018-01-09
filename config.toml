@@ -1,0 +1,32 @@
+languageCode = "en-us"
+title = "Guilherme Augusto Maas"
+baseurl = "https://guilhermemaas.github.io/"
+theme = "aerial"
+
+[params]
+  name = "Guilherme Augusto Maas"
+  about = "SysAdmin &nbsp;&bull;&nbsp; Analista de Suporte"
+  copyright = "Untitled"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/guilhermemaas/"
+
+[[params.social]]
+  medium = "Facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/guilherme.maas"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/guilhermemaas"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "mailto:guilherme.maas@gmail.com"
